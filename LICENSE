@@ -1,4 +1,4 @@
-MIT License
+MIT License + DON'T CHEAT ON HOMEWORK stipulation
 
 Copyright (c) 2024 Gerald Eric Kiliany
 
@@ -8,6 +8,14 @@ in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
+
++YOU WILL NOT COPY THESE IMPLEMENTATIONS AND SUBMIT AS YOUR OWN FOR 
+ANY SCHOOL / EDUCATION RELATED PURPOSES. Since these concepts are the core of 
+data structures and algorithms courses covered in universities it is possible there will be 
+projects / homework asking for implementations of the concepts covered here. While these
+implementations may be a helpful resource for understanding the concepts, neither these
+implementations nor parts of them should be copied into homework solutions.
+
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.

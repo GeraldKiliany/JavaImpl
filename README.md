@@ -13,7 +13,7 @@ However, this should be a useful resource for anyone who wants to familiarize th
 
 ## Implemented
 
-- None
+- IntStack & Unit Tests
 
 ---
 
@@ -22,7 +22,7 @@ However, this should be a useful resource for anyone who wants to familiarize th
 ### Data structures
 - ArrayList
 - LinkedList
-- Stack
+- Stack (Generic)
 - Queue
 - PriorityQueue
 - Deque

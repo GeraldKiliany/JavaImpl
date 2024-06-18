@@ -1,12 +1,12 @@
-package TestJavaImpl;
+package javaimpltest;
 
-import JavaImpl.IntStack;
+import javaimpl.IntStack;
 
 import org.junit.*;
 import static org.junit.Assert.*;
 import static org.hamcrest.CoreMatchers.*;
 
-public class TestIntStack {
+public class IntStackTest {
 
     IntStack myStack;
     int myVal;
@@ -36,6 +36,15 @@ public class TestIntStack {
         myStack.push(myVal);
         myStack.pop();
         assert(myStack.isEmpty());
+    }
+
+    @Test
+    public void TestLifo(){
+        myStack.push(myVal);
+        int newVal = 2;
+        myStack.push(newVal);
+        assert(myStack.peek() == newVal);
+
     }
 
     @After

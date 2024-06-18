@@ -1,4 +1,4 @@
-package JavaImpl;
+package javaimpl;
 
 // Stack implemented with integer data
 

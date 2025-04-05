@@ -13,15 +13,17 @@ However, this should be a useful resource for anyone who wants to familiarize th
 
 ## Implemented
 
-- IntStack & Unit Tests
-
+- Integer Stack & Unit Tests
+- Integer Binary Search & Unit Tests
 ---
 
 ## TODO:
+Fix environment issues so repo can be cloned properly.
 
 ### Data structures
 - ArrayList
 - LinkedList
+- StringBuilder
 - Stack (Generic)
 - Queue
 - PriorityQueue
@@ -34,6 +36,7 @@ However, this should be a useful resource for anyone who wants to familiarize th
 - Trie / PrefixTree
 - Balanced Search Tree
 - 2 3 Tree
+- AVL Tree?
 - Graphs*
 
 *Graphs will have their own section
@@ -44,6 +47,7 @@ However, this should be a useful resource for anyone who wants to familiarize th
 - Binary Search
 - Depth First Search (DFS)*
 - Breadth First Search (BFS)*
+- Bidirectional Search (Two-End BFS)*
 
 #### Sorting
 - SelectionSort
